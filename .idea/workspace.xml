@@ -1,16 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="596f82f8-5b86-4aa3-bb21-909ce0cc38ec" name="Default Changelist" comment="First implementation">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Todo.model.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../../MYTI - PROJECTS/checkpoint" value="PREVIEW" />
-      </map>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/luchian94/simple-node-todo-app.git" />
+      </set>
     </option>
   </component>
   <component name="ProjectId" id="1XtODvFnkGLnrR1X8mCZ3JHECug" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -23,5 +49,61 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="596f82f8-5b86-4aa3-bb21-909ce0cc38ec" name="Default Changelist" comment="" />
+      <created>1581861807208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581861807208</updated>
+      <workItem from="1581861809043" duration="2988000" />
+    </task>
+    <task id="LOCAL-00001" summary="First implementation">
+      <created>1581861991922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581861991922</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="First implementation" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="31" key="CommitChangelistDialog2" timestamp="1581867412183">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="261" y="31" key="CommitChangelistDialog2/0.23.1440.813@0.23.1440.813" timestamp="1581867412183" />
+    <state x="100" y="123" width="1240" height="613" key="DiffContextDialog" timestamp="1581867440771">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="100" y="123" width="1240" height="613" key="DiffContextDialog/0.23.1440.813@0.23.1440.813" timestamp="1581867440771" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1581861995788">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.813@0.23.1440.813" timestamp="1581861995788" />
   </component>
 </project>
